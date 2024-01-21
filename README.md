@@ -1,2 +1,4 @@
 # dotfiles_MacbookAir_M2_2023
-dotfiles.suhail.xyz
+Welcome to learning platform.
+
+I am learning about dotfiles.
