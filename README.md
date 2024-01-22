@@ -10,6 +10,4 @@ I am learning about dotfiles.
 - Mission Control Preference (Don't rearrange spaces)
 - Finder Show Path Bar
 - Trackpad (Three finger Drag and Tap to Click)
-- .zshrc
 - Git (config and SSH)
-- Homebrew Install
